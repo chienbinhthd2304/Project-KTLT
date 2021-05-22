@@ -19,10 +19,8 @@ struct Object
 	unsigned int Social_ID;
 };
 
-string address_Main_folder = "\\Main_folder",
-	address_Account_folder = "\\Main_folder\\Account_folder",
-	address_Student_Management_folder = "\\Main_folder\\Student_Management_folder",
-	address_Student_folder = "\\Main_folder\\Account_folder\\Student_folder",
-	address_Teacher_folder = "\\Main_folder\\Account_folder\\Teacher_folder";
+
+
+void Menu_Login_Register_Teacher();
 
 #endif // !_Header_h_
